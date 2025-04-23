@@ -1,0 +1,124 @@
+04/21/2025 03:36:23 PM True Label : 1 | Predicted Label : 0 | Total Queries : 1
+04/21/2025 03:42:17 PM True Label : 1 | Predicted Label : 0 | Total Queries : 32
+04/21/2025 03:42:18 PM True Label : 1 | Predicted Label : 1 | Total Queries : 32
+04/21/2025 03:42:19 PM True Label : 1 | Predicted Label : 0 | Total Queries : 32
+04/21/2025 03:42:20 PM True Label : 1 | Predicted Label : 1 | Total Queries : 32
+04/21/2025 03:42:21 PM True Label : 1 | Predicted Label : 1 | Total Queries : 32
+04/21/2025 03:42:22 PM True Label : 1 | Predicted Label : 1 | Total Queries : 32
+04/21/2025 03:42:22 PM True Label : 1 | Predicted Label : 1 | Total Queries : 32
+04/21/2025 03:42:23 PM True Label : 1 | Predicted Label : 0 | Total Queries : 32
+04/21/2025 03:42:24 PM True Label : 1 | Predicted Label : 0 | Total Queries : 32
+04/21/2025 03:42:25 PM True Label : 1 | Predicted Label : 1 | Total Queries : 32
+04/21/2025 03:42:25 PM True Label : 1 | Predicted Label : 1 | Total Queries : 32
+04/21/2025 03:42:26 PM True Label : 1 | Predicted Label : 0 | Total Queries : 32
+04/21/2025 03:42:27 PM True Label : 1 | Predicted Label : 1 | Total Queries : 32
+04/21/2025 03:42:27 PM True Label : 1 | Predicted Label : 0 | Total Queries : 32
+04/21/2025 03:42:28 PM True Label : 1 | Predicted Label : 1 | Total Queries : 32
+04/21/2025 03:42:29 PM True Label : 1 | Predicted Label : 1 | Total Queries : 24
+04/21/2025 03:42:30 PM Final Accuracy : 0.6845238095238095
+04/21/2025 03:42:30 PM Finished Attack
+04/21/2025 03:56:00 PM True Label : 1 | Predicted Label : 0 | Total Queries : 32
+04/21/2025 03:56:01 PM True Label : 1 | Predicted Label : 1 | Total Queries : 32
+04/21/2025 03:56:02 PM True Label : 1 | Predicted Label : 0 | Total Queries : 32
+04/21/2025 03:56:03 PM True Label : 1 | Predicted Label : 1 | Total Queries : 32
+04/21/2025 03:56:04 PM True Label : 1 | Predicted Label : 1 | Total Queries : 32
+04/21/2025 03:56:05 PM True Label : 1 | Predicted Label : 1 | Total Queries : 32
+04/21/2025 03:56:06 PM True Label : 1 | Predicted Label : 1 | Total Queries : 32
+04/21/2025 03:56:06 PM True Label : 1 | Predicted Label : 0 | Total Queries : 32
+04/21/2025 03:56:07 PM True Label : 1 | Predicted Label : 0 | Total Queries : 32
+04/21/2025 03:56:08 PM True Label : 1 | Predicted Label : 1 | Total Queries : 32
+04/21/2025 03:56:09 PM True Label : 1 | Predicted Label : 1 | Total Queries : 32
+04/21/2025 03:56:09 PM True Label : 1 | Predicted Label : 0 | Total Queries : 32
+04/21/2025 03:56:10 PM True Label : 1 | Predicted Label : 1 | Total Queries : 32
+04/21/2025 03:56:11 PM True Label : 1 | Predicted Label : 0 | Total Queries : 32
+04/21/2025 03:56:11 PM True Label : 1 | Predicted Label : 1 | Total Queries : 32
+04/21/2025 03:56:12 PM True Label : 1 | Predicted Label : 1 | Total Queries : 24
+04/21/2025 03:56:13 PM Final Accuracy : 0.6845238095238095
+04/21/2025 03:56:13 PM Finished Attack
+04/21/2025 10:34:08 PM True Label : 1 | Predicted Label : 0 | Total Queries : 32
+04/21/2025 10:34:08 PM True Label : 1 | Predicted Label : 1 | Total Queries : 32
+04/21/2025 10:34:08 PM True Label : 1 | Predicted Label : 1 | Total Queries : 32
+04/21/2025 10:34:08 PM True Label : 1 | Predicted Label : 1 | Total Queries : 32
+04/21/2025 10:34:08 PM True Label : 1 | Predicted Label : 1 | Total Queries : 32
+04/21/2025 10:34:08 PM True Label : 1 | Predicted Label : 1 | Total Queries : 32
+04/21/2025 10:34:09 PM True Label : 1 | Predicted Label : 1 | Total Queries : 32
+04/21/2025 10:34:09 PM True Label : 1 | Predicted Label : 0 | Total Queries : 32
+04/21/2025 10:34:09 PM True Label : 1 | Predicted Label : 0 | Total Queries : 32
+04/21/2025 10:34:09 PM True Label : 1 | Predicted Label : 1 | Total Queries : 32
+04/21/2025 10:34:09 PM True Label : 1 | Predicted Label : 1 | Total Queries : 32
+04/21/2025 10:34:09 PM True Label : 1 | Predicted Label : 0 | Total Queries : 32
+04/21/2025 10:34:10 PM True Label : 1 | Predicted Label : 1 | Total Queries : 32
+04/21/2025 10:34:10 PM True Label : 1 | Predicted Label : 0 | Total Queries : 32
+04/21/2025 10:34:10 PM True Label : 1 | Predicted Label : 1 | Total Queries : 32
+04/21/2025 10:34:10 PM True Label : 1 | Predicted Label : 1 | Total Queries : 24
+04/21/2025 10:34:11 PM Final Accuracy : 0.7361111111111112
+04/21/2025 10:34:11 PM Finished Attack
+04/21/2025 11:22:40 PM True Label : 1 | Predicted Label : 0 | Total Queries : 32
+04/21/2025 11:22:40 PM True Label : 1 | Predicted Label : 1 | Total Queries : 32
+04/21/2025 11:22:40 PM True Label : 1 | Predicted Label : 1 | Total Queries : 32
+04/21/2025 11:22:40 PM True Label : 1 | Predicted Label : 1 | Total Queries : 32
+04/21/2025 11:22:40 PM True Label : 1 | Predicted Label : 1 | Total Queries : 32
+04/21/2025 11:22:41 PM True Label : 1 | Predicted Label : 1 | Total Queries : 32
+04/21/2025 11:22:41 PM True Label : 1 | Predicted Label : 1 | Total Queries : 32
+04/21/2025 11:22:41 PM True Label : 1 | Predicted Label : 0 | Total Queries : 32
+04/21/2025 11:22:41 PM True Label : 1 | Predicted Label : 0 | Total Queries : 32
+04/21/2025 11:22:41 PM True Label : 1 | Predicted Label : 1 | Total Queries : 32
+04/21/2025 11:22:41 PM True Label : 1 | Predicted Label : 1 | Total Queries : 32
+04/21/2025 11:22:42 PM True Label : 1 | Predicted Label : 0 | Total Queries : 32
+04/21/2025 11:22:42 PM True Label : 1 | Predicted Label : 1 | Total Queries : 32
+04/21/2025 11:22:42 PM True Label : 1 | Predicted Label : 0 | Total Queries : 32
+04/21/2025 11:22:42 PM True Label : 1 | Predicted Label : 1 | Total Queries : 32
+04/21/2025 11:22:42 PM True Label : 1 | Predicted Label : 1 | Total Queries : 24
+04/21/2025 11:22:44 PM Final Accuracy : 0.7361111111111112
+04/21/2025 11:22:44 PM Finished Attack
+04/22/2025 01:19:26 PM True Label : 1 | Predicted Label : 0 | Total Queries : 32
+04/22/2025 01:19:27 PM True Label : 1 | Predicted Label : 1 | Total Queries : 32
+04/22/2025 01:19:27 PM True Label : 1 | Predicted Label : 1 | Total Queries : 32
+04/22/2025 01:19:27 PM True Label : 1 | Predicted Label : 1 | Total Queries : 32
+04/22/2025 01:19:27 PM True Label : 1 | Predicted Label : 1 | Total Queries : 32
+04/22/2025 01:19:27 PM True Label : 1 | Predicted Label : 1 | Total Queries : 32
+04/22/2025 01:19:28 PM True Label : 1 | Predicted Label : 1 | Total Queries : 32
+04/22/2025 01:19:28 PM True Label : 1 | Predicted Label : 0 | Total Queries : 32
+04/22/2025 01:19:28 PM True Label : 1 | Predicted Label : 0 | Total Queries : 32
+04/22/2025 01:19:28 PM True Label : 1 | Predicted Label : 1 | Total Queries : 32
+04/22/2025 01:19:28 PM True Label : 1 | Predicted Label : 1 | Total Queries : 32
+04/22/2025 01:19:29 PM True Label : 1 | Predicted Label : 0 | Total Queries : 32
+04/22/2025 01:19:29 PM True Label : 1 | Predicted Label : 1 | Total Queries : 32
+04/22/2025 01:19:29 PM True Label : 1 | Predicted Label : 0 | Total Queries : 32
+04/22/2025 01:19:29 PM True Label : 1 | Predicted Label : 1 | Total Queries : 32
+04/22/2025 01:19:29 PM True Label : 1 | Predicted Label : 1 | Total Queries : 24
+04/22/2025 01:19:31 PM Final Accuracy : 0.751984126984127
+04/22/2025 01:19:31 PM Finished Attack
+04/22/2025 01:29:22 PM True Label : 1 | Predicted Label : 1 | Total Queries : 32
+04/22/2025 01:29:22 PM True Label : 1 | Predicted Label : 1 | Total Queries : 32
+04/22/2025 01:29:22 PM True Label : 1 | Predicted Label : 1 | Total Queries : 32
+04/22/2025 01:29:22 PM True Label : 1 | Predicted Label : 1 | Total Queries : 32
+04/22/2025 01:29:22 PM True Label : 1 | Predicted Label : 1 | Total Queries : 32
+04/22/2025 01:29:23 PM True Label : 1 | Predicted Label : 0 | Total Queries : 32
+04/22/2025 01:29:23 PM True Label : 1 | Predicted Label : 0 | Total Queries : 32
+04/22/2025 01:29:23 PM True Label : 1 | Predicted Label : 1 | Total Queries : 32
+04/22/2025 01:29:23 PM True Label : 1 | Predicted Label : 1 | Total Queries : 32
+04/22/2025 01:29:23 PM True Label : 1 | Predicted Label : 1 | Total Queries : 32
+04/22/2025 01:29:24 PM True Label : 1 | Predicted Label : 0 | Total Queries : 32
+04/22/2025 01:29:24 PM True Label : 1 | Predicted Label : 1 | Total Queries : 32
+04/22/2025 01:29:24 PM True Label : 1 | Predicted Label : 0 | Total Queries : 32
+04/22/2025 01:29:24 PM True Label : 1 | Predicted Label : 0 | Total Queries : 32
+04/22/2025 01:29:24 PM True Label : 1 | Predicted Label : 0 | Total Queries : 32
+04/22/2025 01:29:25 PM True Label : 1 | Predicted Label : 1 | Total Queries : 32
+04/22/2025 01:29:25 PM True Label : 1 | Predicted Label : 0 | Total Queries : 32
+04/22/2025 01:29:25 PM True Label : 1 | Predicted Label : 1 | Total Queries : 32
+04/22/2025 01:29:25 PM True Label : 1 | Predicted Label : 0 | Total Queries : 32
+04/22/2025 01:29:25 PM True Label : 1 | Predicted Label : 1 | Total Queries : 32
+04/22/2025 01:29:26 PM True Label : 1 | Predicted Label : 0 | Total Queries : 32
+04/22/2025 01:29:26 PM True Label : 1 | Predicted Label : 0 | Total Queries : 32
+04/22/2025 01:29:26 PM True Label : 1 | Predicted Label : 0 | Total Queries : 32
+04/22/2025 01:29:26 PM True Label : 1 | Predicted Label : 0 | Total Queries : 32
+04/22/2025 01:29:26 PM True Label : 1 | Predicted Label : 1 | Total Queries : 32
+04/22/2025 01:29:26 PM True Label : 1 | Predicted Label : 0 | Total Queries : 32
+04/22/2025 01:29:27 PM True Label : 1 | Predicted Label : 1 | Total Queries : 32
+04/22/2025 01:29:27 PM True Label : 1 | Predicted Label : 1 | Total Queries : 32
+04/22/2025 01:29:27 PM True Label : 1 | Predicted Label : 1 | Total Queries : 32
+04/22/2025 01:29:27 PM True Label : 1 | Predicted Label : 0 | Total Queries : 32
+04/22/2025 01:29:27 PM True Label : 1 | Predicted Label : 0 | Total Queries : 32
+04/22/2025 01:29:29 PM Final Accuracy : 0.44455645161290325
+04/22/2025 01:29:29 PM Finished Attack
